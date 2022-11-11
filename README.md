@@ -1,6 +1,6 @@
 ![AleshaCoder](https://sun9-17.userapi.com/3O2_zhl5r4nzpAXh31NPcOKlm-T7ZTqJsl3efw/ob5zvQj0n4I.jpg)
 ## Hi! I'm Unity Developer
-
+[![CV](https://img.shields.io/badge/-CV_AleshaCoder-090909?style=for-the-badge&logo=GoogleMessages)](https://docs.google.com/document/d/1zJdecRJM0VvcyIG3bGC7uGYbpkSTZWsjU3lZEqyHRNU/)
 ### Technology Stack
 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
