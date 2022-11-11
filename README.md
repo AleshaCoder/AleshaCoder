@@ -1,4 +1,4 @@
-![AleshaCoder](https://sun9-17.userapi.com/3O2_zhl5r4nzpAXh31NPcOKlm-T7ZTqJsl3efw/ob5zvQj0n4I.jpg)]
+![AleshaCoder](https://sun9-17.userapi.com/3O2_zhl5r4nzpAXh31NPcOKlm-T7ZTqJsl3efw/ob5zvQj0n4I.jpg)
 ## Hi! I'm Unity Developer
 
 ### Technology Stack
