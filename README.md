@@ -11,8 +11,13 @@
 [![Tiling Master 3D](https://img.shields.io/badge/-Tiling_Master_3D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.games.TileRepair)
 [![Rocket Evolution](https://img.shields.io/badge/-Rocket_Evolution-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.HyperJunkie.RocketEvolution)
 [![Animal Collector](https://img.shields.io/badge/-Animal_Collector-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.hyperquad.animalcollector)
+
 [![Robo Ecology](https://img.shields.io/badge/-Robo_Ecology-090909?style=for-the-badge&logo=Android)](https://drive.google.com/drive/u/0/folders/1xaIdz5BIASIjMXPTSxZ72sSw5b30XpBR)
 [![Burger Run 3D](https://img.shields.io/badge/-Burger_Run_3D-090909?style=for-the-badge&logo=Android)](https://apkcombo.com/burger-run-3d/run.burger.run/)
+
+[![DuckMania](https://img.shields.io/badge/DuckMania-090909?style=for-the-badge&logo=Itch.io)](https://aleshacoder.itch.io/duckmania)
+[![Mr. Seaman](https://img.shields.io/badge/Mr._Seaman-090909?style=for-the-badge&logo=Itch.io)](https://aleshacoder.itch.io/mr-seaman)
+[![Happy Garbage Collector Merphy](https://img.shields.io/badge/Happy_Garbage_Collector_Merphy-090909?style=for-the-badge&logo=Itch.io)](https://aleshacoder.itch.io/happygarbagecollectormerphy)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AleshaCoder)
