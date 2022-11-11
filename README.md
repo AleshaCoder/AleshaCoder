@@ -12,7 +12,7 @@
 [![Rocket Evolution](https://img.shields.io/badge/-Rocket_Evolution-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.HyperJunkie.RocketEvolution)
 [![Animal Collector](https://img.shields.io/badge/-Animal_Collector-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.hyperquad.animalcollector)
 [![Robo Ecology](https://img.shields.io/badge/-Robo_Ecology-090909?style=for-the-badge&logo=Android)](https://drive.google.com/drive/u/0/folders/1xaIdz5BIASIjMXPTSxZ72sSw5b30XpBR)
-[![Burger Run 3D](https://img.shields.io/badge/-Burger_Run_3D-090909?style=for-the-badge&logo=Android)]([https://play.google.com/store/apps/details?id=com.HyperJunkie.RocketEvolution](https://apkcombo.com/burger-run-3d/run.burger.run/))
+[![Burger Run 3D](https://img.shields.io/badge/-Burger_Run_3D-090909?style=for-the-badge&logo=Android)](https://apkcombo.com/burger-run-3d/run.burger.run/)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/AleshaCoder)
