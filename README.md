@@ -9,6 +9,7 @@
 
 ### Games I Worked On
 [![Tiling Master 3D](https://img.shields.io/badge/-Tiling_Master_3D-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.games.TileRepair)
+[![Blind Fashion](https://img.shields.io/badge/-Blind_Fashion-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.Ndgames.BlindFashion)
 [![Rocket Evolution](https://img.shields.io/badge/-Rocket_Evolution-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.HyperJunkie.RocketEvolution)
 [![Animal Collector](https://img.shields.io/badge/-Animal_Collector-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.hyperquad.animalcollector)
 
