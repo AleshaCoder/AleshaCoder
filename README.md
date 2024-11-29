@@ -22,4 +22,3 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-123456?style=for-the-badge&logo=telegram)](https://t.me/AleshaCoder)
-[![VK](https://img.shields.io/badge/-VK-123456?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/aleshacoder)
