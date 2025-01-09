@@ -5,16 +5,19 @@
 
 ![Unity](https://img.shields.io/badge/-Unity-123456?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-123456?style=for-the-badge&logo=csharp&logoColor=37E1FF)
-![Blender](https://img.shields.io/badge/-Blender-123456?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
 ### Games I Worked On
+
+[![Vasilisa_i_Baba_YAga](https://img.shields.io/badge/-Vasilisa_i_Baba_YAga-123456?style=for-the-badge&logo=Steam)](https://store.steampowered.com/app/2331070/Vasilisa_i_Baba_YAga/)
+
+[![Titan Play](https://img.shields.io/badge/-Titan%20Play-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.Agava.Playground)
+[![Kill Play](https://img.shields.io/badge/-Kill%20Play-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=azon.killplay)
 [![Tiling Master 3D](https://img.shields.io/badge/-Tiling_Master_3D-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.games.TileRepair)
 [![Blind Fashion](https://img.shields.io/badge/-Blind_Fashion-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.Ndgames.BlindFashion)
 [![Rocket Evolution](https://img.shields.io/badge/-Rocket_Evolution-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.HyperJunkie.RocketEvolution)
 [![Animal Collector](https://img.shields.io/badge/-Animal_Collector-123456?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.hyperquad.animalcollector)
 
-[![Robo Ecology](https://img.shields.io/badge/-Robo_Ecology-123456?style=for-the-badge&logo=Android)](https://drive.google.com/drive/u/0/folders/1xaIdz5BIASIjMXPTSxZ72sSw5b30XpBR)
-[![Burger Run 3D](https://img.shields.io/badge/-Burger_Run_3D-123456?style=for-the-badge&logo=Android)](https://apkcombo.com/burger-run-3d/run.burger.run/)
+[![Monster Evolution: Merge-2](https://img.shields.io/badge/-Monster%20Evolution-123456?style=for-the-badge&logo=webgl)](https://play.google.com/store/apps/details?id=com.hyperquad.animalcollector)
 
 [![DuckMania](https://img.shields.io/badge/DuckMania-123456?style=for-the-badge&logo=Itch.io)](https://aleshacoder.itch.io/duckmania)
 [![Mr. Seaman](https://img.shields.io/badge/Mr._Seaman-123456?style=for-the-badge&logo=Itch.io)](https://aleshacoder.itch.io/mr-seaman)
@@ -22,3 +25,4 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-123456?style=for-the-badge&logo=telegram)](https://t.me/AleshaCoder)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-123456?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksei-afanasev-363373343/)
